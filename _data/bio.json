@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "MIPS", "SQL", "C#", "SystemVerilog/Verilog" ]
+      "keywords": [ "C", "C++", "Javascript", "MIPS", "SQL", "C#", "SystemVerilog/Verilog", "MATLAB", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -31,6 +31,15 @@
     }
   ],
   "education": [
+    {
+      "institution": "Kailua High School, Kailua, HI",
+      "area": "GPA: 3.87",
+      "studyType": "",
+      "startDate": "2016-08-01",
+      "endDate": "2020-06-23",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2024)",
@@ -43,14 +52,15 @@
   ],
   "work": [
     {
-      "company": "NULL",
+      "company": "Creation of a Database in C++",
       "position": "",
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Collects information on cats and dogs and stores them within their respective linked list. This utilizes a heirarachy system (inheritance) to create multiple types and instances of dogs/cats. This project is also documented using Doxygen.",
       "highlights": [
-        "Seeking an internship by Summer 2024"
+        "https://github.com/tliam1/ee205-animal-farm",
+        "http://www2.hawaii.edu/~tliam/ee205/ee205_animal_farm/index.html"
       ]
     }
   ],
