@@ -11,15 +11,13 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Telling a story, but without the meat*
+## *Telling a story, but without the meat* ##
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+After about a week of using JsFiddle to learn the basics of JavaScript, I can say with certainty that it is not something I am fond of. Most of the courses found in the Computer Engineering curriculum involves the use of C and C++. When learning the ins and outs of these languages, we were taught to “create code that tells a story”. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Our code was meant to be clearly understood and flow naturally. This implies that variables and their assignments are coherent. However, in JavaScript, variable assignments aren’t clear or explicit. It feels as if I am writing a story without any ‘meat’ to back it up. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+Now, this isn’t to say that the vast amounts of short-hand expressions are inherently bad, rather, the oversimplification of a once clearly written program is. 
 
 ## In the context of programming
 
