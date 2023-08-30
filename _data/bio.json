@@ -53,12 +53,28 @@
   "work": [
     {
       "company": "Creation of a Database in C++",
-      "position": "https://github.com/tliam1/ee205-animal-farm",
-      "website": "",
+      "website": "https://github.com/tliam1/ee205-animal-farm",
       "startDate": "2021",
       "summary": "Collects information on cats and dogs and stores them within their respective linked list. This utilizes a heirarachy system (inheritance) to create multiple types and instances of dogs/cats. This project is also documented using Doxygen (Linked below).",
       "highlights": [
         "http://www2.hawaii.edu/~tliam/ee205/ee205_animal_farm/index.html"
+      ]
+    },
+    {
+      "company": "Minecraft Texture Randomizer",
+      "website": "https://github.com/tliam1/MinecraftAssetRandomization",
+      "startDate": "2021",
+      "summary": "This Python project uses the default minecraft texture folder and randomizes each file held within it. Minecraft applies files based on the name/location of the file and folder size. This program shuffles around the files and renames them to files that were originally in the shuffled location all while maintaining the structure of the texture folder. This was a public website, but the offered free trial has since ended.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Modeling a Single-Cycle Processor in SystemVerilog",
+      "website": "https://www.edaplayground.com/x/GmVk",
+      "startDate": "2021",
+      "summary": "This program simulates the functions of a single-cycle processor by handling branches/conditional branches, additions, subtractions, and noOps. This program cycles set instruction sets through each stage of the processor (IF, ID, EX, MEM, and WB)",
+      "highlights": [
+        "IF: Instruction Fetch", "ID: Instruction Decode", "EX: Execute", "MEM: Memory", "WB: Write Back"
       ]
     }
   ],
