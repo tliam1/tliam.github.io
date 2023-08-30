@@ -34,7 +34,7 @@
     {
       "institution": "Kailua High School, Kailua, HI",
       "area": "GPA: 3.87",
-      "studyType": "",
+      "studyType": "Diploma",
       "startDate": "2016-08-01",
       "endDate": "2020-06-23",
       "courses": [
@@ -75,33 +75,6 @@
       "summary": "This program simulates the functions of a single-cycle processor by handling branches/conditional branches, additions, subtractions, and noOps. This program cycles set instruction sets through each stage of the processor (IF, ID, EX, MEM, and WB)",
       "highlights": [
         "IF: Instruction Fetch", "ID: Instruction Decode", "EX: Execute", "MEM: Memory", "WB: Write Back"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
       ]
     }
   ],
