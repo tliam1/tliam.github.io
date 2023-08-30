@@ -19,34 +19,16 @@ Our code was meant to be clearly understood and flow naturally. This implies tha
 
 Now, this isn’t to say that the vast amounts of short-hand expressions are inherently bad, rather, the oversimplification of a once clearly written program is. 
 
-## In the context of programming
+## The Warm Welcome of JavaScript
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Ignoring the previous observations made, I think JavaScript is a good programming language when it comes to Web Design. From prior knowledge, I am aware that JavaScript, JS, pairs extremely well with HTML to create visually unique and user-friendly websites. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Moreover, due to the many shorthand expressions and the vast simplifications when having to “define” variables, JS is really easy to understand for those seeking an introduction to programming. JS contrasts greatly with something like C. C is rigid and strict, while JS is lenient and free-flowing. Many who are exposed to the rules of C are often deterred as they feel too restricted (assuming they are unaware of the vast amount of possibilities Linux terminal C possesses at the user level). 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## The Key To Mastery
 
-## In the context of engineering
+Being confident whilst coding is super important. Given a small window of time, a high-level programmer should be able to understand a given Engineering/software problem, question potential resolutions, and, given a smaller assignment, produce a basic framework of the program within a few minutes/hours. Without confidence in one's capabilities, a programmer's thought process will stutter and falter, effectively losing more time than necessary. 
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+This is where athletic software engineering comes into play. Practicing short, timed programming questions will aid in the growth of programming confidence and efficiency. This is why I find the WODs to be a worthwhile addition to the course material. I for one, struggle in the speed category. 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I prefer to think, think, and keep on thinking. Typically, the first idea isn’t the best or most efficient idea. To code quickly is to leave out things like edge cases. However, being able to produce a solution quickly and think on your toes is crucial for job interviews or producing prototypes. Both critical-thinking and efficiency are important. Having both traits are the key to a successful programming career. 
