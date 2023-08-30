@@ -53,13 +53,11 @@
   "work": [
     {
       "company": "Creation of a Database in C++",
-      "position": "",
+      "position": "https://github.com/tliam1/ee205-animal-farm",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Collects information on cats and dogs and stores them within their respective linked list. This utilizes a heirarachy system (inheritance) to create multiple types and instances of dogs/cats. This project is also documented using Doxygen.",
+      "startDate": "2021",
+      "summary": "Collects information on cats and dogs and stores them within their respective linked list. This utilizes a heirarachy system (inheritance) to create multiple types and instances of dogs/cats. This project is also documented using Doxygen (Linked below).",
       "highlights": [
-        "https://github.com/tliam1/ee205-animal-farm",
         "http://www2.hawaii.edu/~tliam/ee205/ee205_animal_farm/index.html"
       ]
     }
