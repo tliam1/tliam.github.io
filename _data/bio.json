@@ -72,7 +72,7 @@
       "company": "Modeling a Single-Cycle Processor in SystemVerilog",
       "website": "https://www.edaplayground.com/x/GmVk",
       "startDate": "2021",
-      "summary": "This program simulates the functions of a single-cycle processor by handling branches/conditional branches, additions, subtractions, and noOps. This program cycles set instruction sets through each stage of the processor (IF, ID, EX, MEM, and WB)",
+      "summary": "This program simulates the functions of a single-cycle processor by handling branches/conditional branches, additions, subtractions, and noOps. This program cycle shifts instruction sets through each stage of the processor (IF, ID, EX, MEM, and WB).",
       "highlights": [
         "IF: Instruction Fetch", "ID: Instruction Decode", "EX: Execute", "MEM: Memory", "WB: Write Back"
       ]
