@@ -9,7 +9,7 @@ labels:
   - About Me
 ---
 
-<><img width="200px" class="rounded float-start pe-4" src="../img/cutting.jpg">
+<!--<img width="200px" class="rounded float-start pe-4" src="../img/cutting.jpg"> -->
 
 ## Past ##
 
