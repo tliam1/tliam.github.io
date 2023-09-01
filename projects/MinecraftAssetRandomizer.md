@@ -20,7 +20,11 @@ Here's how it works:
 <hr>
 
 <pre>
-Each Minecraft texture is applied on a folder/name basis. If a cow's texture name were to suddenly be changed to say 'pig_front', then the pig would apply the cow's texture. However, the new pig texture must be held within the pig folder (all textures follow this rule). The same rules more or less apply to the music files.
+Each Minecraft texture is applied on a folder/name basis. 
+If a cow's texture name were to suddenly be changed to say 'pig_front', 
+then the pig would apply the cow's texture. However, the new pig texture must 
+be held within the pig folder (all textures follow this rule). 
+The same rules more or less apply to the music files.
 </pre>
 
 <hr>
