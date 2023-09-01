@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/2023-08-31_16.21.03.png
+image: img/MinecraftHeader.png
 title: "Minecraft Asset Randomizer"
 date: 2022
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A texture pack randomizer for Minecraft 1.19"
 ---
 
-<img class="img-fluid" src="../img/img/2023-08-31_16.21.03.png">
+<img class="img-fluid" src="../img/MinecraftHeader.png">
 
 This is a program that spits out a completely randomized texture pack. Each and every texture will be swapped around (besides post 1.19 textures) as well as the music/effects. This project was made to get familiar with Python and some of its offered libraries. Moreover, this was merely a fun idea that reaped a hilarious result. 
 
