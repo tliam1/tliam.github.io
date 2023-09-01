@@ -8,6 +8,7 @@ published: true
 labels:
   - Python
   - GitHub
+  - Minecraft
 summary: "A texture pack randomizer for Minecraft 1.19"
 ---
 
