@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MinecraftHeader.png
+image: img/MCR/MinecraftHeader.png
 title: "Minecraft Asset Randomizer"
 date: 2022
 published: true
