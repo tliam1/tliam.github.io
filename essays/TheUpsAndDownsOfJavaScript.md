@@ -13,7 +13,7 @@ labels:
 
 ## *Telling a story, but without the meat* ##
 
-After about a week of using JsFiddle to learn the basics of JavaScript, I can say with certainty that it is not something I am fond of. Most of the courses found in the Computer Engineering curriculum involves the use of C and C++. When learning the ins and outs of these languages, we were taught to “create code that tells a story”. 
+After about a week of using JsFiddle to learn the basics of JavaScript, I can say with certainty that it is not something I am fond of. Most of the coursework in the Computer Engineering curriculum involves the use of C and C++. When learning the ins and outs of these languages, we were taught to “create code that tells a story”. 
 
 Our code was meant to be clearly understood and flow naturally. This implies that variables and their assignments are coherent. However, in JavaScript, variable assignments aren’t clear or explicit. It feels as if I am writing a story without any ‘meat’ to back it up. 
 
