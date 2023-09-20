@@ -55,7 +55,7 @@
       "company": "Creation of a Database in C++",
       "website": "https://github.com/tliam1/ee205-animal-farm",
       "startDate": "2021",
-      "summary": "Collects information on cats and dogs and stores them within their respective linked list. This utilizes a heirarachy system (inheritance) to create multiple types and instances of dogs/cats. This project is also documented using Doxygen (Linked below).",
+      "summary": "Collects information on cats and dogs and stores them within their respective linked list. This utilizes a hierarchical system (inheritance) to create multiple types and instances of dogs/cats. This project is also documented using Doxygen (Linked below).",
       "highlights": [
         "http://www2.hawaii.edu/~tliam/ee205/ee205_animal_farm/index.html"
       ]
@@ -64,7 +64,7 @@
       "company": "Minecraft Texture Randomizer",
       "website": "https://github.com/tliam1/MinecraftAssetRandomization",
       "startDate": "2021",
-      "summary": "This Python project uses the default minecraft texture folder and randomizes each file held within it. Minecraft applies files based on the name/location of the file and folder size. This program shuffles around the files and renames them to files that were originally in the shuffled location all while maintaining the structure of the texture folder. This was a public website, but the offered free trial has since ended.",
+      "summary": "This Python project uses the default Minecraft texture folder and randomizes each file held within it. Minecraft applies textures based on the name/location of the file and folder size. This program shuffles around the files and renames them to files that were originally in the shuffled location all while maintaining the structure of the texture folder. This was a public website, but the offered free trial has since ended.",
       "highlights": [
       ]
     },
