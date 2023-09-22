@@ -6,7 +6,7 @@ title: "ESLINT: Willingness to Adapt"
 date: 2023-09-20
 published: true
 labels:
-  - About Me
+  - ESLint
 ---
 
 <!--<img width="200px" class="rounded float-start pe-4" src="../img/cutting.jpg"> -->
