@@ -9,10 +9,10 @@ labels:
   - ESLint
 ---
 
-
+<img width="200px" class="rounded float-start pe-4" src="../img/ESLint_logo.svg.png"> 
 
 ## What is ESLINT ##
-<img width="200px" class="rounded float-start pe-4" src="../img/ESLint_logo.svg.png"> 
+
 Coding standards, simply put, is like a writing guide for programmers. It outlines the best practices to create a consistent writing style. From my own experiences and what I believe is the most talked about standard, is variable/function naming conventions. Things such as camel Case or Snake Case are widely known as acceptable naming conventions and there are disputes as to whether one is greater than the other. Recently, I have dabbled in the use of ESLint alongside IntelliJ and found myself struggling to enjoy the analysis tool.
 
 ## Issues ##
