@@ -9,8 +9,6 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ESLint_logo.svg.png"> 
-
 ## What are UI Frameworks? ##
 
 I am just going to come out and say it. UI Frameworks are the saving grace for HTML. Simply put, a UI Framework is a collection of prebuilt libraries and elements that aid in the design of a user interface, UI. One might ask, “Why not just use CSS?” and to that I’d slap you across the face because the time required to build something of quality with raw HTML and CSS is far from worth it.  Due to the nature of user interfaces being a prebuilt resource you can get up and running in minutes. Not only this, but you can alter these prebuilt libraries to fit your needs. Essentially, UI Frameworks do the hard work for you (if you know what you are doing) with the small tweaks left to be done by the user.
@@ -22,3 +20,5 @@ Though useful, UI Frameworks, like Bootstrap 5, can be tedious and hard to learn
 ## Why use it? ##
 
 Even with the extra work required to completely understand a UI Framework, I’d say it is absolutely necessary for all web developers. It speeds up the production of a website prototype and easily stylizes sections of a webpage. From my experience, I can gladly say good riddance to raw CSS and HTML. The images below show just how night and day. Given approximately the same amount of time to produce a web page, the difference in quality is quite clear. UI Frameworks are a clear winner
+<img width="200px" class="rounded float-left pe-4" src="../img/Bootstrap_vs_CSS/BootstrapSite.png">
+<img width="200px" class="rounded float-right pe-4" src="../img/cutting.jpg">
