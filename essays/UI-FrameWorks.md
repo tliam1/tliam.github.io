@@ -21,6 +21,6 @@ Though useful, UI Frameworks, like Bootstrap 5, can be tedious and hard to learn
 
 Even with the extra work required to completely understand a UI Framework, I’d say it is absolutely necessary for all web developers. It speeds up the production of a website prototype and easily stylizes sections of a webpage. From my experience, I can gladly say good riddance to raw CSS and HTML. The images below show just how night and day. Given approximately the same amount of time to produce a web page, the difference in quality is quite clear. UI Frameworks are a clear winner.  
 <p float="left">
-  <img width="400px" class="rounded pe-4" src="../img/Bootstrap_vs_CSS/BootstrapSite.png">
-  <img width="400px" class="rounded pe-4" src="../img/Bootstrap_vs_CSS/Raw CSS Site.png">
+  <img width="800px" class="rounded pe-4" src="../img/Bootstrap_vs_CSS/BootstrapSite.png">
+  <img width="800px" class="rounded pe-4" src="../img/Bootstrap_vs_CSS/Raw CSS Site.png">
 </p>
