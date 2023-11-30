@@ -4,7 +4,7 @@ type: essay
 title: "Scalable, simple, and productive"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
-published: false
+published: true
 labels:
   - Design
   - Software Development
