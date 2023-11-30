@@ -21,6 +21,6 @@ Programming should always be kept simple. The number one rule: make your life ea
 Commonly seen in the programs we created using React, each rendered page is through a component-based structure. Sections of the page (components), take a header, body, and footer as an example, are combined to form a complete page. Through this process, we are able to swap body components out to render new pages instead of repeating the process of creating a navbar and footer for each. The whole purpose of design patterns is to be fast, as fast as possible. Companies love efficiency and that means to save time and generate money. Being able to apply these coding design patterns will greatly impact one's career as a software engineer. 
 
   
-<p float="left">
-  <img width="500px" class="rounded pe-4" src="../img/Bootstrap_vs_CSS/BootstrapSite.png">
+<p style="text-align:center;">
+  <img width="500px" class="rounded pe-4 " src="../img/Behavioral-Design-Patterns.png" alt="Behavioral Design Patterns">
 </p>
