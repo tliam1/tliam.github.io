@@ -13,7 +13,7 @@ labels:
 As the class comes to a close, there are concepts that will stick with me well beyond this course. One of them being coding standards. Coding standards act like a set of rules that ensure that produced code is universally formatted and organized. This was the most important concept during the final weeks of this course. Linters such as EsLint were a massive help in enforcing a few standards. While working on our group project, it became apparent that to some, upholding these standards were not the top priority and, as a result, it became a massive headache to look over and manage their code. Having universal standards (particularly in projects involving larger groups) is an absolute must from here on out. Once I have experienced the neatness and consistency that comes with upholding these standards, I can not go back. Though this is a web development-oriented course, this stretches to any branch of programming. I could apply this to my personal game development projects, or when I go out into the workforce where there will most likely be some form of coding standards present. 
 
 <p float="left">
-  <img width="500px" class="rounded pe-4" src="../img/Bootstrap_vs_CSS/BootstrapSite.png">
+  <img width="500px" class="rounded pe-4" src="../img/Coding_Standards.jpg">
 </p>
 
 ## A Reflection On Design Patterns ##
