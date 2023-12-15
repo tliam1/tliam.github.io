@@ -20,6 +20,6 @@ This was the final project created for UH Manoa's ICS314 class. It utilizes Mete
 Users with the admin role can monitor, promote, and demote other users as necessary. Essentially, they serve as system administrators of the database and possess all the functionalities of a vendor. Users with the customer role are typical page viewers; they can access and view menus but are restricted from adding items to them.
 
 
-<a href="https://github.com/food-now/food-now.github.io"><i class="large github icon "></i>Our github.io Site</a>
+<a href="https://food-now.github.io/"><i class="large github icon "></i>Our github.io Site</a>
 <br>
 <a href="https://github.com/food-now/MM"><i class="large github icon "></i>Main GitHub Repo</a>
