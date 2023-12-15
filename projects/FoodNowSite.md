@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CatDB.png
+image: img/Food_Now.png
 title: "Food Now"
 date: 2023
 published: false
@@ -13,7 +13,7 @@ labels:
 summary: "A site for vendors at UH Manoa to display their menu's!"
 ---
 
-<img class="img-fluid" src="../img/CatDB.png">
+<img class="img-fluid" src="../img/Food_Now.png">
 
 This was the final project created for UH Manoa's ICS314 class. It utilizes Meteor as the primary web framework and MongoDB for data storage. The site, currently deployed (though subject to change), enables users with a vendor role to publish food items for their respective companies. The target audience for this site is UH Manoa vendors, aiming to facilitate the sharing of each vendor's menus.
 
