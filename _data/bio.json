@@ -23,11 +23,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "MIPS", "SQL", "C#", "SystemVerilog/Verilog", "MATLAB", "Python" ]
+      "keywords": [ "C", "C++", "Javascript", "MIPS", "SQL", "C#", "SystemVerilog/Verilog", "MATLAB", "Python", "JavaScript" ]
     },
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "Meteor", "MongoDB" ]
     }
   ],
   "education": [
@@ -75,6 +79,15 @@
       "summary": "This program simulates the functions of a single-cycle processor by handling branches/conditional branches, additions, subtractions, and noOps. This program cycle shifts instruction sets through each stage of the processor (IF, ID, EX, MEM, and WB).",
       "highlights": [
         "IF: Instruction Fetch", "ID: Instruction Decode", "EX: Execute", "MEM: Memory", "WB: Write Back"
+      ]
+    },
+    {
+      "company": "A WebSite For Food Vendors",
+      "website": "https://github.com/food-now/MM",
+      "startDate": "2023",
+      "summary": "This was the final project created for UH Manoa’s ICS314 class. It utilizes Meteor as the primary web framework and MongoDB for data storage. The site, currently deployed (though subject to change), enables users with a vendor role to publish food items for their respective companies. The target audience for this site is UH Manoa vendors, aiming to facilitate the sharing of each vendor’s menus. Users with the admin role can monitor, promote, and demote other users as necessary. Essentially, they serve as system administrators of the database and possess all the functionalities of a vendor. Users with the customer role are typical page viewers; they can access and view menus but are restricted from adding items to them.",
+      "highlights": [
+        "MongoDB", "Meteor", "JavaScript", "https://github.com/food-now/MM"
       ]
     }
   ],
