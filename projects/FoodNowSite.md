@@ -4,7 +4,7 @@ type: project
 image: img/Food_Now.png
 title: "Food Now"
 date: 2023
-published: false
+published: true
 labels:
   - JavaScript
   - Meteor
