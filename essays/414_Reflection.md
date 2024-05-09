@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "414_Reflection"
+title: "414 Reflection"
 date: 2024-05-09
 published: true
 labels:
